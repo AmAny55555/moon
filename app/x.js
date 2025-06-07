@@ -6,7 +6,7 @@ import { PinContainer } from "./components/3d-pin";
 export default function HomePage() {
   return (
     <div>
-      <p className="font-bold mb-5 text-white sm:text-2xl md:text-3xl text-center z-[1000] mt-80">
+      <p className="font-bold mb-5 text-white sm:text-2xl md:text-3xl text-center z-[1000] mt-5">
         A small selection of
         <span className="text-[#CBACF9]"> recent project</span>
       </p>
